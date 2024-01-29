@@ -1,0 +1,24 @@
+[
+    {
+        "title1" : "CICSO CYBERSECRITY",
+        "title2" : "ESSENTIALS",
+        "desc1" : "1.Grow your skills, get certified and join the next generation of IT security professionals. Stand out in a cybersecurity skills shortage and be job-ready for key security roles. CCNP Security. Secure Apps and Data. Stand Up to Cyber Threats. Secure Access with Cisco.",
+        "desc2" : "2.Cisco certification increases customer satisfaction because trained employees have a better understanding of how to deal with issues and solve them with a higher success rate. According to 75% of managers, Cisco certifications are important for better team performance.",
+        "desc3" : "3.The Cyberecurity Essentials course develops foundational understanding of cybersecurity and how it relates to information and network security. The 30-hour course introduces students to characteristics of cyber crime, security principles, technologies, and procedures to defend networks.",
+        "desc4" : "4.The Cisco Cybersecurity Specialist certification recognises security professionals who have attained specialised in-depth expertise and proven knowledge in the essential areas of proactive cyber threat detection and mitigation.",
+        "desc5" : "5.The Cyberecurity Essentials course develops foundational understanding of cybersecurity and how it relates to information and network security. The 30-hour course introduces students to characteristics of cyber crime, security principles, technologies, and procedures to defend networks.",
+        "image" : "ccna_600.png"
+
+    },
+    {
+        "title1" : "MICROSOFT AZURE ADMINISTRATION",
+        "title2" : "ASSOCIATE",
+        "desc1" : "1.Microsoft Azure is a cloud computing platform and service offered by Microsoft. It provides a range of cloud services, including compute, storage, database, analytics, networking, machine learning, and more. Azure offers a .",
+        "desc2" : "2.Azure provides a wide range of tools and services for developers, including Azure App Service, Azure Functions, and Azure Logic Apps, which allow users to build and deploy web, mobile, and enterprise applications. Azure also offer .",
+        "desc3" : "3.Passing an Azure certification exam demonstrates your knowledge and expertise in using Azure services, and can help you advance your career in cloud computing.",
+        "desc4" : "4.Azure provides a wide range of tools and a range of development tools and languages, including Visual Studio and .NET.",
+        "desc5" : "5.Passing an Azure certification exam demonstrates your knowledge and expertise in using Azure services, and can help you advance your career in cloud computing.",
+        "image" : "WhatsApp Image 2023-04-03 at 23.19.15.jpeg"
+
+    }
+]
